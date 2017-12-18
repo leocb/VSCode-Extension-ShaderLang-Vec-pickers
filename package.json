@@ -1,11 +1,11 @@
 {
-    "name": "vec-float-picker",
-    "displayName": "Vec Float Picker",
-    "description": "Implements \"The book of Shaders\" Editor value pickers",
+    "name": "vector-value-picker",
+    "displayName": "Vector Value Picker",
+    "description": "Vector value pickers like in \"The book of Shaders\" Editor",
     "version": "0.0.1",
     "publisher": "leocb",
     "engines": {
-        "vscode": "^1.19.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
         "Other"
@@ -13,7 +13,7 @@
     "activationEvents": [
         "onCommand:extension.sayHello"
     ],
-    "main": "./extension",
+    "main": "./src/extension",
     "contributes": {
         "commands": [{
             "command": "extension.sayHello",
