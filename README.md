@@ -1,6 +1,6 @@
-# vec-float-picker README
+# vector-value-picker README
 
-This is the README for your extension "vec-float-picker". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "vector-value-picker". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
